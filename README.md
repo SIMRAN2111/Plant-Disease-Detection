@@ -1,4 +1,4 @@
-x# 🌱 Plant Disease Detection Using Deep Learning
+# 🌱 Plant Disease Detection Using Deep Learning
 
 ## 📌 Project Overview
 Plant Disease Detection is a Deep Learning project that
